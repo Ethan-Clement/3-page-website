@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Week 2 Day 1 Page 2/title>
+    </head>
+    <body>
+<h1>About Me</h1>
+<a href="W2D1.html"> Home </a> 
+<a href="W2D1P3.html"> Contact Me </a>
+<h1>Mildly interesting facts about me!</h1>
+<ul>
+    <li>I can climb a V7</li>
+    <li>I can give a play by play of the entire movie Interstellar</li>
+    <li>I've played enough hours of Titanfall 2 <br>
+        my mother would disown me if she ever found out.</li>
+</ul>
+    </body>
+</html>
